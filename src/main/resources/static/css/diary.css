@@ -1,0 +1,20 @@
+ul{list-style: none}
+
+h2{
+    padding: 50px;
+    font-weight: 600;
+}
+
+.record {
+    width: 1500px;
+    height: 1000px;
+    background: #f3e9e9;
+    text-align: center;
+    transform: translate(210px, -200px);
+    border-radius: 50px;
+}
+
+table{
+    color: black;
+    font-size: 1.4rem;
+}

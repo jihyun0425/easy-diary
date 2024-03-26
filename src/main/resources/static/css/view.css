@@ -1,0 +1,20 @@
+.contents {
+    width: 1400px; min-height: 600px; background: #7fcdb8;
+    padding: 50px; transform: translate(250px, -200px);
+}
+
+.text{
+    transform: translate(50px, 0);
+}
+
+.titleAra{
+    width: 1200px;
+    min-height: 30px;
+    background: white;
+}
+
+.textArea{
+    width: 1200px;
+    min-height: 500px;
+    background: white;
+}
